@@ -1,0 +1,16 @@
+.claude/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.h5
+.env
+.env.*
+uploads/
+app_server.log
+
+.venv
+venv
